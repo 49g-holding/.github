@@ -1,0 +1,5 @@
+# Ownership of the .github repository itself.
+# CODEOWNERS is per-repository on GitHub: this file does not apply to
+# other repositories in the organization.
+
+* @HCI-Lab49
