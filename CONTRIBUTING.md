@@ -2,6 +2,10 @@
 
 These conventions apply to repositories in the `49g-holding` organization unless a repository defines its own `CONTRIBUTING.md`. The full engineering rulebook lives in the `49g-standards` repository and governs where the two overlap.
 
+## The public repositories of 49GAION
+
+Each public repository of 49GAION carries its own `CONTRIBUTING.md`; read it first. In short: one change, one pull request, every required check green, reviewed by someone other than its writer and merged by the governing seat of 49GAION; decided texts are never edited; no organisation's name or data; English only; binaries stay outside the repository, cited by link and hash. Proposals from an organisation that uses 49GAION come generalised. By contributing you license your contribution under the licences in that repository's `LICENSE.md`.
+
 ## Language
 
 All repository surfaces — commit messages, issues, pull requests, reviews, documentation — are written in English.
