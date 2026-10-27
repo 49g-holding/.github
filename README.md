@@ -18,10 +18,8 @@ This repository carries org profile and templates only. The engineering rulebook
 
 ## Status
 
-**PRELAUNCH.** This repository is private. Nothing in it describes a launched, licensed, or operating service. GitHub displays the organization profile and applies these defaults across the organization only while this repository is public; until such a decision, the files are staged here under version control.
-
-Making this repository public is a publication decision: its texts must pass the 49G publication review before the visibility changes.
+**PRELAUNCH.** Nothing in it describes a launched, licensed, or operating service. This repository is public so that GitHub shows the organization profile and applies these defaults across the organization; its texts passed the publication decision of the organization's owner on 27 October 2026, with the public release of 49GAION. Every later change to its texts is a publication decision of the same kind.
 
 ## Ownership
 
-© 2026 49G Holding Ltd (ADGM). All rights reserved. See [`NOTICE`](NOTICE).
+© 2026 49G Holding Ltd (ADGM). All rights reserved for the content of this repository; see [`NOTICE`](NOTICE). The public repositories of 49GAION carry their own licences, stated in each one's `LICENSE.md`.

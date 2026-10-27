@@ -4,13 +4,9 @@
 
 Do not open public issues for security problems.
 
-Report suspected vulnerabilities in any `49g-holding` repository privately:
-
-1. through GitHub private vulnerability reporting on the affected repository, where enabled; or
-2. directly to the organization owners via GitHub.
-
-A dedicated security contact will be designated and published here before any repository in this organization is made public.
+- **Public repositories (49GAION and its Library).** To report a security issue in a text or a check, open a private security advisory on that repository (its Security tab, "Report a vulnerability"). No secret is ever written in these repositories, in an issue or in a pull request.
+- **Private repositories.** Report to the organisation owners through GitHub.
 
 ## Scope
 
-This organization is in a pre-launch state. No production service is operated from these repositories.
+No production service is operated from the public repositories. The organisation is in a pre-launch state.
